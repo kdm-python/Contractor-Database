@@ -1,0 +1,4 @@
+Invoice ID,Job ID,Client ID,Job Type,paid?,Total,Balance
+301,201,101,BoilerChange,NOT PAID,£5000,£5000
+302,202,102,BoilerChange,NOT PAID,£2500,£2500
+303,203,103,GasCert,NOT PAID,£2500,£2500
